@@ -1,1 +1,1 @@
-To view and interact with the visualization please paste the link to this repository (https://github.com/psoday/visualizing-progress-in-infant-mortality-rate) at https://nbviewer.org/
+To view and interact with the visualization please use the vbviewer link https://nbviewer.org/github/psoday/visualizing-progress-in-infant-mortality-rate/blob/main/Visualizing%20Progress%20in%20IMR.ipynb
